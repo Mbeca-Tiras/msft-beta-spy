@@ -13,9 +13,8 @@ It demonstrates how to quantify systematic risk and visualize the relationship b
 
 **Beta** measures a stock’s sensitivity to market movements:
 
-[
-R_{MSFT} = \alpha + \beta R_{SPY} + \varepsilon
-]
+R_{MSFT} = \alpha + \beta R_{SPY} + e
+
 
 * **β (Beta):** The slope of the regression line.
 
